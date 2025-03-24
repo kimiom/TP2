@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+bn,bjvjvjvjv
 typedef struct Noeud {
     int valeur;
     struct Noeud* precedent;
